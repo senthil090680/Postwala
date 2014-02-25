@@ -1,0 +1,8 @@
+[11-Jun-2011 06:39:01] PHP Fatal error:  Call to undefined function T_() in /home/postin/public_html/uat.postwala.in/themes/postwala/replyajax.php on line 4
+[11-Jun-2011 07:32:39] PHP Parse error:  syntax error, unexpected T_IF in /home/postin/public_html/uat.postwala.in/themes/postwala/replyajax.php on line 33
+[11-Jun-2011 07:35:03] PHP Parse error:  syntax error, unexpected T_IF in /home/postin/public_html/uat.postwala.in/themes/postwala/replyajax.php on line 33
+[11-Jun-2011 07:41:07] PHP Parse error:  syntax error, unexpected T_IF in /home/postin/public_html/uat.postwala.in/themes/postwala/replyajax.php on line 33
+[11-Jun-2011 07:43:05] PHP Parse error:  syntax error, unexpected T_IF in /home/postin/public_html/uat.postwala.in/themes/postwala/replyajax.php on line 36
+[23-Jun-2011 18:32:06] PHP Parse error:  syntax error, unexpected T_STRING in /home/postin/public_html/uat.postwala.in/themes/postwala/replyajax.php on line 36
+[23-Jun-2011 18:33:15] PHP Parse error:  syntax error, unexpected T_STRING in /home/postin/public_html/uat.postwala.in/themes/postwala/replyajax.php on line 36
+[23-Jun-2011 19:16:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/postin/public_html/uat.postwala.in/themes/postwala/replyajax.php on line 45

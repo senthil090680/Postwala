@@ -1,0 +1,5 @@
+AllowOverride None
+
+<Directory /public_html/foldername>
+ AllowOverride Options
+</Directory>

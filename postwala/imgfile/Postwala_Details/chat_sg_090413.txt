@@ -1,0 +1,156 @@
+felixhpng:  never mind
+let me play with it
+ me:  no new ads posted yet
+ felixhpng:  ok
+i try posting one
+it is difficult to integrate with facebook?
+ me:  i think we can
+ Sent at 11:57 AM on Tuesday
+ felixhpng:  ok
+let me play with the website
+i tell what i want to do with it. 
+ Sent at 11:58 AM on Tuesday
+ felixhpng:  can you clear the data from the table instead
+ me:  all the tables?
+ felixhpng:  yes
+except categories
+locations and listing
+rajesh20131234@gmail.com 
+it is u?
+ Sent at 12:03 PM on Tuesday
+ me:  yes
+ felixhpng:  ok
+ Sent at 12:04 PM on Tuesday
+ felixhpng:  clear the data from the tables
+easily to identify 
+what i want 
+ me:  ok
+ felixhpng:  thanks
+ Sent at 12:06 PM on Tuesday
+ felixhpng:  my friend now the website cannot work.
+ Sent at 1:30 PM on Tuesday
+ me:  check now, did you remove postwala theme in the admin panel, that theme runs be default, so it is not working previously
+ felixhpng:  i switch the theme
+ me:  we need to create a folder and name that folder name in the admin panel
+ felixhpng:  i swtich in default theme to neo and mininalis
+then gone
+hmm
+ Sent at 2:12 PM on Tuesday
+ me:  that themes does not have sufficient files to run
+ Sent at 2:14 PM on Tuesday
+ felixhpng:  when you say you charge for source code, will documentaion will be provided by you? meaning what each file does
+and 
+ me:  I think there will be an option for that in open classifieds, but we developed with one only theme alone
+ felixhpng:  dun you have the raw source code from open classifieds?
+ Sent at 2:17 PM on Tuesday
+ felixhpng:  ok will inform my partner
+ me:  no, we can work from these itself
+ felixhpng:  can you get it the index page, back again ?
+ Sent at 2:27 PM on Tuesday
+ felixhpng:  not working
+ Sent at 4:14 PM on Tuesday
+ felixhpng:  it is ok
+ me:  yes
+did you change in the admin panel again
+ felixhpng:  when? just?
+nope
+ me:  ok ok, its working
+ felixhpng:  so theme cannot change
+ Sent at 2:30 PM on Tuesday
+ felixhpng:  ok
+ Sent at 2:34 PM on Tuesday
+ me:  we can create our own  folder and create it
+ felixhpng:  for multiple countries
+how to do
+one country one website 
+or one website multiple countries
+ Sent at 2:41 PM on Tuesday
+ me:  we can have multiple domains for different countries with the same code for all countries
+ felixhpng:  the jobboard you done, also using open source code? 
+ Sent at 2:44 PM on Tuesday
+ me:  that is core php
+ felixhpng:  ok
+so not like open classified
+ Sent at 2:56 PM on Tuesday
+ felixhpng:  for the drop down, city
+how to remove
+the cities
+ Sent at 2:59 PM on Tuesday
+ me:  we need to add it in the database
+ Sent at 3:00 PM on Tuesday
+ felixhpng:  ok
+for a start, if i change the index page, the category  page and the individual page 
+how much u going to charge
+ Sent at 3:04 PM on Tuesday
+ me:  I am open, you tell me the cost,but must be reasonable to you and me
+ felixhpng:  you let me know how many man hour
+ Sent at 3:15 PM on Tuesday
+ me:  which pages you want to change?
+ felixhpng:  index, category, individual page
+for a start
+i am thinking of link the website to facebook
+of course, the login using facebook will be good
+i dun want to be too ambitious
+the success of a website is not about how good is the coding or the function
+a lot of marketing needs to be done
+ me:  you pay separate for the sourcecode right?
+ felixhpng:  which source code?
+for the pages
+or for the classifed soure code
+ Sent at 3:20 PM on Tuesday
+ me:  classified sourcecode
+ felixhpng:  it is open source code from open classified issit?
+how much  u going to charge
+ me:  we have customized lot of things to bring that much itself,
+ felixhpng:  how mcuh u going to charge
+ me:  you tell me for total price
+ felixhpng:  i need to check with my partner
+i cannot give u an answer
+now
+u tell me a range u expect
+ Sent at 3:24 PM on Tuesday
+ me:  totally $1000
+ felixhpng:  sgd $1000?
+ me:  yes
+ felixhpng:  i got to talk to my partner
+he is out of town until next week
+i am going out of singapore this friday
+ Sent at 3:27 PM on Tuesday
+ me:  ok
+ felixhpng:  i hope you understand
+anyway 
+how to pay u
+paypal?
+ me:  i didnt get you
+ Sent at 3:35 PM on Tuesday
+ felixhpng:  if we engage u
+how to pay u
+ me:  you pay through paypal?
+ felixhpng:  paypal issit
+ok
+ok
+noted.
+ me:  any tax will go off?
+ felixhpng:  what
+ me:  yeah sure
+ Sent at 3:58 PM on Tuesday
+ me:  I will provide everything about the site, which will be easy to understand by you as well
+ Sent at 4:00 PM on Tuesday
+ me:  to get started, pay me 50% upfront and 25% after partial completion and 25% after completely finished
+ Sent at 4:01 PM on Tuesday
+ felixhpng:  thanks.
+ Sent at 4:05 PM on Tuesday
+ me:  ok
+ Sent at 4:07 PM on Tuesday
+ felixhpng:  did you disable the site?
+ Sent at 4:13 PM on Tuesday
+ me:  no what happened?
+ Sent at 4:14 PM on Tuesday
+ me:  i think its cache, check now
+ Sent at 4:17 PM on Tuesday
+ felixhpng:  going for dinner
+thank 
+have a good night'
+ me:  ok fine
+ Sent at 4:20 PM on Tuesday
+ 

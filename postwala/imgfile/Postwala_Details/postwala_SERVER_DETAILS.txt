@@ -1,0 +1,171 @@
+Hi Senthil, 
+
+Please use this these details to get the source code of postwala site (UAT) 
+
+ 
+
+FTP Username: uatftp@postwala.in
+Password:   I will send in another email
+
+FTP Server: ftp.postwala.in
+FTP Server Port: 21
+SFTP Server Port: 22
+
+ 
+
+ 
+After login into this ftp site, you can see a zip file.    uat.postwala.in.zip.     This is the source code for whole site.  Please download this to local PC and deploy in wamp server.  
+
+After copying to local PC,  you may need to do the following steps to successfully run in local PC. 
+1. edit includes\config.php   file   and modify the lines, which are having "/home/postin/public_html......".   you have point to local drive path..
+2. SITE_URL','http://uat.postwala.in');    this line should be changed to  e.g.  "http:\\127.0.0.1\postwala"
+3. Same config file contains the database connection details.   Connect database http://phpmyadmin.pricemask.com/  using this username and password. 
+4. Export all the database components and import same database in local mysql database. 
+5. change the user name and pasword in the above config file as per your local database username and password. 
+
+uat site ftp pass:
+
+vZf+?S!st$dv
+
+	
+
+
+
+
+
+
+
+
+Please follow these instruction. 
+
+ 
+
+ 
+
+1. Download the following zip file.  
+
+http://downloads2.ioncube.com/loader_downloads/ioncube_loaders_win_vc6_x86.zip
+
+ 
+
+2. unzip into the following folder
+
+F:\senthil\wamp\bin\apache\Apache2.2.17\bin\ioncube
+
+ 
+
+Make sure you have the file F:\senthil\wamp\bin\apache\Apache2.2.17\bin\ioncube\ioncube_loader_win_5.3.dll
+
+ 
+
+3. add the following line in php.ini file at first line. 
+
+zend_extension = "F:\senthil\wamp\bin\apache\Apache2.2.17\bin\ioncube\ioncube_loader_win_5.3.dll"
+
+ 
+
+e.g.
+
+ 
+
+zend_extension = "E:\Program Files\wamp\bin\apache\Apache2.2.17\bin\ioncube\ioncube_loader_win_5.3.dll"
+
+[PHP]
+
+ 
+
+;;;;;;;;;;;;;;;;;;;
+
+; About php.ini   ;
+
+;;;;;;;;;;;;;;;;;;;
+
+; PHP's initialization file, generally called php.ini, is responsible for
+
+; configuring many of the aspects of PHP's 
+
+ 
+
+ 
+
+4. Restart the apache server. 
+
+ 
+
+ 
+
+This will resolve the issue. 
+
+
+
+FTP Username	:	uatftp@postwala.in
+Password		:	vZf+?S!st$dv
+
+FTP Server		:	ftp.postwala.in
+FTP Server Port	:	21
+SFTP Server Port:	22
+DOMAIN IP		:	182.18.131.246
+
+ADMIN PANEL
+
+username		:	admin
+password		:	Orange987^
+
+
+http://phpmyadmin.pricemask.com/
+
+USERNAME	:	postin_uat
+
+PASSWORD	:	2?VmE}g$9GZm
+
+SERVER		:	localhost
+
+DB NAME		:	postin_uat
+
+DB IP		:	182.18.131.246
+
++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++
+LIVE SERVER
+++++++++++++++
+
+FTP USERNAME	:	'prodftp@postwala.in'
+FTP Password	:	'3m6g$!(c!;HB'
+
++++++++++
+DB
++++++++++
+
+USERNAME		:	'postin_prod'
+PASSWORD		:	'wlX4qT(x#[6f';
+DB_NAME			:	'postin_prod'
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+UAT PRICEMASK
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+FTP Username: admin_pc6uat@pricemask.com
+FTP Server: ftp.pricemask.com
+FTP Server Port: 21
+SFTP Server Port: 22
+4xCZW7sl=MCy
+
+www.uat.pricemask.com
+www.uat.pricemask.com\admin     (admin / pricemaskuat)
+
+define('DATABASE_USERID',			'admin_pc6uat');
+define('DATABASE_PASSWORD',		        'l1gCxhnU');
+define('DATABASE_NAME',			'admin_pc6_uat');
+
+/home/admin/public_html/uat.pricemask.com/include/site_constants.php
+this will contain the DB user name and password.   you can login in phpmyadmin.pricemask.com
+
+More than 50% code will be in encrypted forms.   But we will be able to edit nearly 100% front-end look and feel and etc. 
+
+You will not be able to setup this site in your local PC.   You need to directly update in UAT server only.   (I will let you know later,  when we can setup in local PC). 
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

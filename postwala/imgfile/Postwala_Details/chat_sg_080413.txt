@@ -1,0 +1,111 @@
+felixhpng:  hi senthil ,good morning
+ me:  Hi
+ felixhpng:  how is ur weekend
+ me:  yes, its SG?
+ felixhpng:  sg?
+ me:  are you from which Country?
+ felixhpng:  singapore
+sg3783r@yahoo.com
+ me:  ok fine great
+ felixhpng:  how is the site coming along?
+ me:  I need access for mysql, I am unable access mysql now
+ felixhpng:  i grant u access right
+ me:  but again i find the domain
+ felixhpng:  ya?
+ me:  sorry i did = I didnt
+ felixhpng:  sorry 
+i do not get u
+ me:  when i login godaddy, I didnt find the domain name to access mysql
+ felixhpng:  u upload two databases right
+ Sent at 10:57 AM on Monday
+ me:  one database
+ felixhpng:  elisting13
+thesorrentocondo
+u did not upload?
+ me:  not mine
+ felixhpng:  elisting 13 not urs?
+ me:  thesorrentocondo is the database i did
+ felixhpng:  so what is the issue now?
+cannot connect to database?
+ me:  yes and unable to acccess the database through godaddy.com
+ felixhpng:  
+https://p3nlmysqladm002.secureserver.net/grid50/6123 
+how is this about
+ Sent at 11:02 AM on Monday
+ me:  will chekc
+ Sent at 11:03 AM on Monday
+ me:  i logged in, but can you check whethere access is there to connect?
+ Sent at 11:05 AM on Monday
+ me:  http://thesorrentocondo.com/postwala/
+check this link unable to connect to database
+need to know, whether full access to connect to database is there?
+ felixhpng:  i grant 
+u full access
+ Sent at 11:08 AM on Monday
+ felixhpng:  http://support.godaddy.com/help/category/67/web-hosting-databases
+can u read this faq
+i am not a IT guy
+so i unable to help u to track error
+ me:  ok fine
+ felixhpng:  <?php
+            //Variables for connecting to your database.
+            //These variable values come from your hosting account.
+            $hostname = "thesorrentocondo.db.10837007.hostedresource.com";
+            $username = "thesorrentocondo";
+            $dbname = "thesorrentocondo";
+
+            //These variable values need to be changed by you before deploying
+            $password = "your password";
+            $usertable = "your_tablename";
+            $yourfield = "your_field";
+        
+            //Connecting to your database
+            mysql_connect($hostname, $username, $password) OR DIE ("Unable to 
+            connect to database! Please try again later.");
+            mysql_select_db($dbname);
+
+            //Fetching from your database table.
+            $query = "SELECT * FROM $usertable";
+            $result = mysql_query($query);
+
+            if ($result) {
+                while($row = mysql_fetch_array($result)) {
+                    $name = $row["$yourfield"];
+                    echo "Name: $name<br>";
+                }
+            }
+<?php
+            //Variables for connecting to your database.
+            //These variable values come from your hosting account.
+            $hostname = "thesorrentocondo.db.10837007.hostedresource.com";
+            $username = "thesorrentocondo";
+            $dbname = "thesorrentocondo";
+
+            //These variable values need to be changed by you before deploying
+            $password = "your password";
+            $usertable = "your_tablename";
+            $yourfield = "your_field";
+        
+            //Connecting to your database
+            mysql_connect($hostname, $username, $password) OR DIE ("Unable to 
+            connect to database! Please try again later.");
+            mysql_select_db($dbname);
+
+            //Fetching from your database table.
+            $query = "SELECT * FROM $usertable";
+            $result = mysql_query($query);
+
+            if ($result) {
+                while($row = my
+Are you using this?
+detabase details
+ Sent at 11:13 AM on Monday
+ me:  I will chekc this
+ Sent at 11:14 AM on Monday
+ me:  Hi,
+ felixhpng did not receive your chat.
+ me:  check this url
+ felixhpng did not receive your chat.
+ me:  http://thesorrentocondo.com/postwala
+ felixhpng did not receive your chat.
+ me:  but I am unable to use .htaccess file, if I use it I get 500 Internal Server Error, do you have any idea

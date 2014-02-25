@@ -1,0 +1,7 @@
+[05-Mar-2011 19:21:31] PHP Fatal error:  Call to undefined function decrypt() in /home/postin/public_html/postwala.in/includes/classes/class.account.php on line 208
+[06-Mar-2011 04:45:59] PHP Fatal error:  Call to undefined function decrypt() in /home/postin/public_html/postwala.in/includes/classes/class.account.php on line 208
+[09-May-2011 18:59:01] PHP Fatal error:  <br>The encoded file <b>/home/postin/public_html/uat.postwala.in/includes/licence.php</b> has expired. in Unknown on line 0
+[10-May-2011 02:20:00] PHP Fatal error:  <br>The encoded file <b>/home/postin/public_html/uat.postwala.in/includes/licence.php</b> has expired. in Unknown on line 0
+[11-Jun-2011 18:48:39] PHP Notice:  Use of undefined constant SITE_URL - assumed 'SITE_URL' in /home/postin/public_html/uat.postwala.in/includes/config2.php on line 5
+[28-Jun-2011 14:24:26] PHP Fatal error:  Call to undefined function rssURL() in /home/postin/public_html/uat.postwala.in/includes/header.php on line 22
+[26-Apr-2012 06:01:03] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71

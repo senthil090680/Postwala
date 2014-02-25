@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css">
+            .content
+            {
+             	padding:10px 30px;
+            }
+            #facebookFormContainer
+            {
+            	position:fixed;
+		bottom:0px;
+		right:0px;
+		float:left;
+		z-index: 3;
+            }
+            #facebookForm
+            {
+            	height:250px;
+            	width:180px;
+            	background-color:white;
+            	display:none;
+            }
+            #facebookLink
+            {
+            	height:20px;
+            	width:95px;
+            	background-image:url(../images/facebook.png);
+            	display:block;
+            	cursor:pointer;
+            }
+            #facebookClose
+            {
+            	display:block;
+            	cursor:pointer;
+		float: left;
+		padding: 2px 5px 2px 2px;
+            }
+
+        </style>

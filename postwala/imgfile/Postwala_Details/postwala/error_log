@@ -1,0 +1,109 @@
+[07-Jun-2011 15:26:48] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:27:30] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:27:46] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:28:00] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:28:20] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:28:39] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:28:52] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:29:08] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:29:08] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:30:23] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:31:12] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:36:22] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:37:37] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:37:46] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:38:08] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:46:10] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[13-Jun-2011 02:26:06] PHP Notice:  Constant PRICEMASK_URL already defined in /home/postin/public_html/uat.postwala.in/includes/config2.php on line 15
+[28-Jun-2011 18:45:16] PHP Fatal error:  Call to undefined function rssURL() in /home/postin/public_html/uat.postwala.in/includes/header.php on line 22
+[29-Jun-2011 22:05:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/postin/public_html/uat.postwala.in/item.php on line 31
+[30-Jun-2011 13:05:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/postin/public_html/uat.postwala.in/item.php on line 106
+[30-Jun-2011 14:16:50] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/postin/public_html/uat.postwala.in/item.php on line 103
+[02-Jul-2011 17:07:15] PHP Parse error:  syntax error, unexpected ';' in /home/postin/public_html/uat.postwala.in/themes/postwala/item.php on line 175
+[02-Jul-2011 18:24:30] PHP Parse error:  syntax error, unexpected '}' in /home/postin/public_html/uat.postwala.in/themes/postwala/index.php on line 219
+[04-Jul-2011 16:32:21] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Request timed out due to default_socket_timeout php.ini setting in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>897</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Adapter_Socket->readLine(16384)</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:897</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->readResponse()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:170</td in /home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php on line 980
+[04-Jul-2011 16:35:35] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Request timed out due to default_socket_timeout php.ini setting in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>897</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Adapter_Socket->readLine(16384)</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:897</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->readResponse()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:170</td in /home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php on line 980
+[11-Nov-2011 17:19:29] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[16-Dec-2011 22:42:43] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Unable to connect to tcp://www.smsintegra.com:80. Error #110: Connection timed out in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>154</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Adapter_Socket->connect()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:154</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->sendRequest(Object(HTTP_Request2))</td><td>/home/admin/pear/pear/php/HTTP/Re in /home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php on line 311
+[24-Jan-2012 12:05:57] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[28-Jan-2012 13:11:37] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Unable to connect to tcp://www.smsintegra.com:80. Error #0: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>154</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Adapter_Socket->connect()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:154</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->sendRequest(Obje in /home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php on line 311
+[06-Feb-2012 18:58:02] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Unable to connect to tcp://www.smsintegra.com:80. Error #0: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>154</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Adapter_Socket->connect()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:154</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->sendRequest(Obje in /home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php on line 311
+[16-Feb-2012 01:01:42] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Malformed response:  in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>897</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Response->__construct('', true)</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:897</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->readResponse()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:170</td></tr>
+<tr><td style="text-align: center;"> in /home/admin/pear/pear/php/HTTP/Request2/Response.php on line 210
+[25-Feb-2012 11:02:28] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Unable to connect to tcp://www.smsintegra.com:80. Error #0: php_network_getaddresses: getaddrinfo failed: Name or service not known in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>154</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Adapter_Socket->connect()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:154</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->sendRequest(Object(HTTP_Req in /home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php on line 311
+[14-Mar-2012 13:10:16] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Unable to connect to tcp://www.smsintegra.com:80. Error #0: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>154</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Adapter_Socket->connect()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:154</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->sendRequest(Obje in /home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php on line 311
+[14-Mar-2012 13:10:16] PHP Fatal error:  Uncaught <table style="border: 1px" cellspacing="0">
+<tr><td colspan="3" style="background: #ff9999"> <b>HTTP_Request2_Exception</b>: Unable to connect to tcp://www.smsintegra.com:80. Error #0: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in <b>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php</b> on line <b>154</b></td></tr>
+<tr><td colspan="3" style="background-color: #aaaaaa; text-align: center; font-weight: bold;">Exception trace</td></tr>
+<tr><td style="text-align: center; background: #cccccc; width:20px; font-weight: bold;">#</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Function</td><td style="text-align: center; background: #cccccc; font-weight: bold;">Location</td></tr>
+<tr><td style="text-align: center;">0</td><td>HTTP_Request2_Adapter_Socket->connect()</td><td>/home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php:154</td></tr>
+<tr><td style="text-align: center;">1</td><td>HTTP_Request2_Adapter_Socket->sendRequest(Obje in /home/admin/pear/pear/php/HTTP/Request2/Adapter/Socket.php on line 311
+[02-Apr-2013 09:12:06] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 09:16:18] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 09:18:22] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 10:30:03] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 10:46:19] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 10:46:20] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 10:46:21] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 10:46:22] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 10:46:22] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 11:03:01] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0
+[02-Apr-2013 11:04:11] PHP Warning:  include(licence.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/postwala/includes/functions.php on line 20
+[02-Apr-2013 11:04:11] PHP Warning:  include(licence.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/postwala/includes/functions.php on line 20
+[02-Apr-2013 11:04:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'licence.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/postwala/includes/functions.php on line 20
+[02-Apr-2013 11:04:11] PHP Notice:  Use of undefined constant PAYPAL_ACTIVE - assumed 'PAYPAL_ACTIVE' in /home/shopping/public_html/postwala/includes/functions.php on line 22
+[02-Apr-2013 11:04:11] PHP Notice:  Use of undefined constant ONLINEPAYMENT_ACTIVE - assumed 'ONLINEPAYMENT_ACTIVE' in /home/shopping/public_html/postwala/includes/functions.php on line 24
+[02-Apr-2013 11:04:11] PHP Fatal error:  Cannot redeclare validate_ipn() (previously declared in /home/shopping/public_html/postwala/includes/paypal.php:40) in /home/shopping/public_html/postwala/includes/directpay.php on line 124
+[02-Apr-2013 11:05:57] PHP Warning:  include(licence.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/postwala/includes/functions.php on line 20
+[02-Apr-2013 11:05:57] PHP Warning:  include(licence.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/shopping/public_html/postwala/includes/functions.php on line 20
+[02-Apr-2013 11:05:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'licence.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shopping/public_html/postwala/includes/functions.php on line 20
+[02-Apr-2013 11:05:57] PHP Notice:  Use of undefined constant PAYPAL_ACTIVE - assumed 'PAYPAL_ACTIVE' in /home/shopping/public_html/postwala/includes/functions.php on line 22
+[02-Apr-2013 11:05:57] PHP Notice:  Use of undefined constant ONLINEPAYMENT_ACTIVE - assumed 'ONLINEPAYMENT_ACTIVE' in /home/shopping/public_html/postwala/includes/functions.php on line 24
+[02-Apr-2013 11:05:57] PHP Notice:  Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' in /home/shopping/public_html/postwala/includes/functions.php on line 27
+[02-Apr-2013 11:05:57] PHP Notice:  Use of undefined constant THEME - assumed 'THEME' in /home/shopping/public_html/postwala/includes/functions.php on line 27
+[02-Apr-2013 11:05:57] PHP Notice:  Use of undefined constant LANGUAGE - assumed 'LANGUAGE' in /home/shopping/public_html/postwala/includes/header.php on line 10
+[02-Apr-2013 11:05:57] PHP Notice:  Use of undefined constant LANGUAGE - assumed 'LANGUAGE' in /home/shopping/public_html/postwala/includes/header.php on line 10
+[02-Apr-2013 11:05:57] PHP Notice:  Undefined variable: location in /home/shopping/public_html/postwala/includes/header.php on line 12
+[02-Apr-2013 11:05:57] PHP Notice:  Undefined variable: location in /home/shopping/public_html/postwala/includes/header.php on line 13
+[02-Apr-2013 11:05:57] PHP Fatal error:  Call to undefined function getSeo() in /home/shopping/public_html/postwala/includes/header.php on line 37
+[02-Apr-2013 11:07:14] PHP Fatal error:  <br>The file <b>/home/shopping/public_html/postwala/includes/licence.php</b> was encoded with the PHP 5.3 ionCube Encoder and requires PHP 5.3 to be installed. in Unknown on line 0

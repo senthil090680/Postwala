@@ -1,0 +1,223 @@
+[29-Mar-2011 03:57:32] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[29-Mar-2011 04:12:24] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[29-Mar-2011 04:16:41] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[29-Mar-2011 10:42:44] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[29-Mar-2011 13:21:30] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[30-Mar-2011 05:24:48] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[30-Mar-2011 05:26:43] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[30-Mar-2011 05:27:26] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[30-Mar-2011 05:49:41] PHP Parse error:  syntax error, unexpected '=' in /home/postin/public_html/uat.postwala.in/includes/directpay.php on line 5
+[30-Mar-2011 05:51:24] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[30-Mar-2011 05:53:24] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[30-Mar-2011 05:54:22] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[30-Mar-2011 06:02:14] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[30-Mar-2011 06:05:24] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 04:54:45] PHP Parse error:  syntax error, unexpected '.' in /home/postin/public_html/uat.postwala.in/includes/item-common.php on line 407
+[31-Mar-2011 04:54:46] PHP Parse error:  syntax error, unexpected '.' in /home/postin/public_html/uat.postwala.in/includes/item-common.php on line 407
+[31-Mar-2011 04:54:51] PHP Parse error:  syntax error, unexpected '.' in /home/postin/public_html/uat.postwala.in/includes/item-common.php on line 407
+[31-Mar-2011 04:54:52] PHP Parse error:  syntax error, unexpected '.' in /home/postin/public_html/uat.postwala.in/includes/item-common.php on line 407
+[31-Mar-2011 04:58:47] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 05:03:06] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 05:08:45] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 05:13:22] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 05:17:06] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 05:21:10] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 05:21:41] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 05:33:48] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 05:45:48] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 06:00:25] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 06:01:35] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[31-Mar-2011 06:01:36] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[31-Mar-2011 06:01:43] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[31-Mar-2011 06:01:44] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[31-Mar-2011 06:01:50] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[31-Mar-2011 06:01:51] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[31-Mar-2011 06:02:49] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 06:06:30] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 06:14:41] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 06:25:22] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 06:33:36] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 06:45:04] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 07:08:19] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 07:11:04] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 07:41:34] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/postin/public_html/uat.postwala.in/includes/controller.php on line 277
+[31-Mar-2011 07:45:31] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 07:47:35] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 10:09:01] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 10:17:26] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 10:42:05] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 10:47:20] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 10:53:02] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 11:07:05] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 11:11:34] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 11:14:59] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 11:19:27] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 11:43:56] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 11:56:26] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 12:14:04] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 12:18:00] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[31-Mar-2011 18:24:05] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[01-Apr-2011 09:42:00] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[01-Apr-2011 09:54:12] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[02-Apr-2011 12:05:35] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[02-Apr-2011 12:12:24] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[02-Apr-2011 12:14:55] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[02-Apr-2011 12:16:08] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[02-Apr-2011 12:18:55] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[03-Apr-2011 10:47:00] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 01:28:01] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 01:32:11] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 02:32:38] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 02:39:39] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 02:57:41] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 03:05:36] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 03:06:38] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 03:23:37] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 03:26:47] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 03:28:00] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 03:45:06] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 10:31:05] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 10:34:13] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 10:37:37] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 10:40:10] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 10:42:28] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 12:44:01] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 13:24:46] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[04-Apr-2011 13:27:36] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[07-Apr-2011 15:20:40] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[07-Apr-2011 15:23:33] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[07-Apr-2011 17:52:24] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[18-Apr-2011 12:14:22] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[09-May-2011 04:15:52] PHP Notice:  Use of undefined constant PAYPAL_ACTIVE - assumed 'PAYPAL_ACTIVE' in /home/postin/public_html/uat.postwala.in/includes/functions.php on line 26
+[09-May-2011 04:15:52] PHP Notice:  Use of undefined constant ONLINEPAYMENT_ACTIVE - assumed 'ONLINEPAYMENT_ACTIVE' in /home/postin/public_html/uat.postwala.in/includes/functions.php on line 28
+[09-May-2011 04:15:52] PHP Fatal error:  Cannot redeclare validate_ipn() (previously declared in /home/postin/public_html/uat.postwala.in/includes/paypal.php:40) in /home/postin/public_html/uat.postwala.in/includes/directpay.php on line 124
+[09-May-2011 04:17:58] PHP Notice:  Use of undefined constant PAYPAL_ACTIVE - assumed 'PAYPAL_ACTIVE' in /home/postin/public_html/uat.postwala.in/includes/functions.php on line 26
+[09-May-2011 04:17:58] PHP Notice:  Use of undefined constant ONLINEPAYMENT_ACTIVE - assumed 'ONLINEPAYMENT_ACTIVE' in /home/postin/public_html/uat.postwala.in/includes/functions.php on line 28
+[09-May-2011 04:17:58] PHP Fatal error:  Cannot redeclare validate_ipn() (previously declared in /home/postin/public_html/uat.postwala.in/includes/paypal.php:40) in /home/postin/public_html/uat.postwala.in/includes/directpay.php on line 124
+[09-May-2011 04:18:27] PHP Notice:  Use of undefined constant PAYPAL_ACTIVE - assumed 'PAYPAL_ACTIVE' in /home/postin/public_html/uat.postwala.in/includes/functions.php on line 26
+[09-May-2011 04:18:27] PHP Notice:  Use of undefined constant ONLINEPAYMENT_ACTIVE - assumed 'ONLINEPAYMENT_ACTIVE' in /home/postin/public_html/uat.postwala.in/includes/functions.php on line 28
+[09-May-2011 04:18:27] PHP Fatal error:  Cannot redeclare validate_ipn() (previously declared in /home/postin/public_html/uat.postwala.in/includes/paypal.php:40) in /home/postin/public_html/uat.postwala.in/includes/directpay.php on line 124
+[09-May-2011 04:18:31] PHP Notice:  Use of undefined constant PAYPAL_ACTIVE - assumed 'PAYPAL_ACTIVE' in /home/postin/public_html/uat.postwala.in/includes/functions.php on line 26
+[09-May-2011 04:18:31] PHP Notice:  Use of undefined constant ONLINEPAYMENT_ACTIVE - assumed 'ONLINEPAYMENT_ACTIVE' in /home/postin/public_html/uat.postwala.in/includes/functions.php on line 28
+[09-May-2011 04:18:31] PHP Fatal error:  Cannot redeclare validate_ipn() (previously declared in /home/postin/public_html/uat.postwala.in/includes/paypal.php:40) in /home/postin/public_html/uat.postwala.in/includes/directpay.php on line 124
+[09-May-2011 04:27:21] PHP Parse error:  syntax error, unexpected '{' in /home/postin/public_html/uat.postwala.in/includes/licence.php on line 61
+[09-May-2011 04:33:12] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:39:17] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:39:23] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:39:47] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:45:32] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:45:39] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:46:06] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:46:24] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:48:07] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:48:41] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:50:20] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:50:38] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:51:06] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:52:24] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:52:41] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:52:49] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:53:25] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:53:29] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:54:17] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:54:47] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 04:56:08] PHP Fatal error:  The file /home/postin/public_html/uat.postwala.in/includes/licence.php cannot be decoded
+by this version of the ionCube Loader.
+ If you are the administrator of this site
+then please install the latest version of the ionCube Loader.
+ in Unknown on line 0
+[09-May-2011 13:26:51] PHP Fatal error:  <br>The encoded file <b>/home/postin/public_html/uat.postwala.in/includes/licence.php</b> has expired. in Unknown on line 0
+[09-May-2011 13:35:31] PHP Fatal error:  <br>The encoded file <b>/home/postin/public_html/uat.postwala.in/includes/licence.php</b> has expired. in Unknown on line 0
+[10-May-2011 02:40:14] PHP Fatal error:  <br>The encoded file <b>/home/postin/public_html/uat.postwala.in/includes/licence.php</b> has expired. in Unknown on line 0
+[26-May-2011 15:50:04] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[07-Jun-2011 15:28:24] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:28:27] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[07-Jun-2011 15:37:46] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[24-Jun-2011 15:59:39] PHP Parse error:  syntax error, unexpected '<' in /home/postin/public_html/uat.postwala.in/content/item-new.php on line 66
+[24-Jun-2011 17:58:51] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[09-Jul-2011 16:25:18] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[09-Jul-2011 16:30:50] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[09-Jul-2011 16:32:51] PHP Fatal error:  Call to a member function closeDB() on a non-object in /home/postin/public_html/uat.postwala.in/includes/footer.php on line 7
+[14-Nov-2011 15:01:49] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[10-Dec-2011 03:44:01] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
+[06-May-2012 19:09:05] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/postin/public_html/uat.postwala.in/includes/classes/phpMyDB.php on line 71
